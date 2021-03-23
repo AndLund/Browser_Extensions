@@ -1,0 +1,12 @@
+{
+  "manifest_version": 2,
+  "version": "0.0.1",
+  "name": "Conversor",
+  "description": "Converte minúsculas e maiúsculas",
+  "author": "Anderson",
+  "browser_action": {
+    "default_title": "Converter extension",
+    "default_popup": "index.html",
+    "default_icon": "icon.png"
+  }
+}
